@@ -6,5 +6,6 @@
   "launcher": {
     "version": "1.5",
     "url": "https://github.com/ThyCordeiro/TorriMod/releases/download/launcher/ToriiLauncher.exe"
+    "img": "https://github.com/ThyCordeiro/TorriMod/releases/download/launcher/torii.png"
   }
 }
