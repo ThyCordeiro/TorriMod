@@ -1,10 +1,10 @@
 {
   "modpack": {
-    "version": "1.3",
+    "version": "1.4",
     "url": "https://github.com/ThyCordeiro/TorriMod/releases/download/mod/update.zip"
   },
   "launcher": {
-    "version": "1.8",
+    "version": "1.9",
     "url": "https://github.com/ThyCordeiro/TorriMod/releases/download/launcher/ToriiLauncher.exe",
     "img": "https://github.com/ThyCordeiro/TorriMod/releases/download/launcher/imagem.png"
   }
