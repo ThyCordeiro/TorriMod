@@ -6,6 +6,10 @@
   "launcher": {
     "version": "1.9.2",
     "url": "https://github.com/ThyCordeiro/TorriMod/releases/download/launcher/ToriiLauncher.exe",
-    "img": "https://github.com/ThyCordeiro/TorriMod/releases/download/launcher/imagem.png"
-  }
+    "img": "https://github.com/ThyCordeiro/TorriMod/releases/download/launcher/imagem.png",
+  "images": [
+    "https://github.com/ThyCordeiro/TorriMod/releases/download/launcher/img1.png",
+    "https://github.com/ThyCordeiro/TorriMod/releases/download/launcher/img2.png",
+    "https://github.com/ThyCordeiro/TorriMod/releases/download/launcher/img3.png"
+  ]
 }
